@@ -1,7 +1,7 @@
 alabaster==0.7.12
 appdirs==1.4.3
 APScheduler==3.6.3
-apsw==3.28.0
+apsw==3.28.0.post1
 apturl==0.5.2
 asgiref==3.2.7
 astroid==1.6.6
