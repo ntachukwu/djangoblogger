@@ -1,1 +1,1 @@
-web: gunicorn zuri_blog.wsgi --log-file -
+web: gunicorn zuri_blog.wsgi:blog --log-file -
