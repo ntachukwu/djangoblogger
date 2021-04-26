@@ -2,7 +2,6 @@
 
 This is a simple blog app where users can register and create an account so they can be able to make comments.\
 **Link to Web App** [dennisthemenaceapp](https://dennisthemenaceapp.herokuapp.com/) hosted on Heroku\
-\
 
 This documentation is to allow you to be able to deploy the app on Heroku 😊.\
 Fork this repository so you can have your own copy.\
